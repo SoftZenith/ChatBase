@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772876032230",
+    "firebase_url": "https://chatbase-1cea4.firebaseio.com",
+    "project_id": "chatbase-1cea4",
+    "storage_bucket": "chatbase-1cea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772876032230:android:24d9ee1f63d53c64",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.chatbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772876032230-r72q3u0phiha6m03s5eefsv3cen70a3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.chatbase",
+            "certificate_hash": "9ec198de0f8590031c194e6d37901fb72661b93b"
+          }
+        },
+        {
+          "client_id": "772876032230-clfhlgbtva8d91vb26g8u2rq4hffbaci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0SH-PNOmTnmMHErzsJBhVrtBUibqRaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772876032230-clfhlgbtva8d91vb26g8u2rq4hffbaci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
